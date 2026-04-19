@@ -105,15 +105,6 @@ It combines **data tracking, analytics, and AI** into a single system to support
 
 ---
 
-## How to Run the Project
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/noorsaba5/AI-Business-Operations-System.git
-cd AI-Business-Operations-System 
-
----
-
 ## Project Details
 
 ### Dashboard Highlights
