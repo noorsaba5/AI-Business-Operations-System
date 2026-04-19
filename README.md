@@ -63,44 +63,9 @@ It combines **data tracking, analytics, and AI** into a single system to support
   <img src="images/payroll.png" width="90%">
 </p>
 
-## Project Overview
-
-The **AI Business Operations System** is a real-world business dashboard designed for small businesses to manage financial operations and gain intelligent insights.
-
-It combines **data tracking, analytics, and AI** into a single system to support better business decision-making.
-
-> ⚡ This project combines business analytics, automation, and AI to solve real-world small business problems.
-
----
-
-## Key Features
-
-- Sales tracking and management  
-- Expense tracking and categorisation  
-- Payroll management and salary calculation  
-- Automatic profit and loss calculation  
-- Smart business alerts  
-- AI-generated business insights  
-- GPT-powered business chatbot  
-- Interactive dashboard with charts and filters  
-
----
-
-## Screenshots
-
-### Dashboard Overview
+### Sales & Expense Analytics
 <p align="center">
-  <img src="images/dashboard.png" width="90%">
-</p>
-
-### AI Chat Assistant
-<p align="center">
-  <img src="images/chatbot.png" width="90%">
-</p>
-
-### Payroll Management
-<p align="center">
-  <img src="images/payroll.png" width="90%">
+  <img src="images/analytics-dashboard.png" width="90%">
 </p>
 
 ---
