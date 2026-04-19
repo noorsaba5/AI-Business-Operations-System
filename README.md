@@ -2,16 +2,6 @@
   <img src="images/banner.png" alt="AI Business Operations System Banner" width="100%">
 </p>
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-business-operations-system-b3maddq62lk7tbtlznjyd3.streamlit.app/)
-
-## Project Links
-
-**GitHub Repository**  
-https://github.com/noorsaba5/AI-Business-Operations-System  
-
-**Live Application**  
-https://ai-business-operations-system-b3maddq62lk7tbtlznjyd3.streamlit.app/
-
 <h1 align="center">AI Business Operations System</h1>
 
 <p align="center">
@@ -31,6 +21,15 @@ AI-powered dashboard for managing sales, expenses, payroll, profit/loss, and bus
   </a>
 </p>
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-business-operations-system-b3maddq62lk7tbtlznjyd3.streamlit.app/)
+
+## Project Links
+
+**GitHub Repository**  
+https://github.com/noorsaba5/AI-Business-Operations-System  
+
+**Live Application**  
+https://ai-business-operations-system-b3maddq62lk7tbtlznjyd3.streamlit.app/
 ---
 
 ## Project Overview
