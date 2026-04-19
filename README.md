@@ -1,146 +1,166 @@
 <p align="center">
-  <img src="images/banner.png" alt="AI Business Operations System Banner" width="90%">
+  <img src="images/banner.png" alt="AI Business Operations System Banner" width="100%">
 </p>
 
+<h1 align="center">AI Business Operations System</h1>
 
-# AI Business Operations System
+<p align="center">
+AI-powered dashboard for managing sales, expenses, payroll, profit/loss, and business insights
+</p>
 
-An AI-powered business management dashboard built for small businesses to track sales, expenses, payroll, profit/loss, smart financial alerts, and AI-generated business insights.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-blue">
+  <img src="https://img.shields.io/badge/Streamlit-App-red">
+  <img src="https://img.shields.io/badge/Machine-Learning-AI-green">
+  <img src="https://img.shields.io/badge/OpenAI-GPT-orange">
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-blue?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
 ## Project Overview
 
-The AI Business Operations System is a Streamlit-based application designed to help small businesses monitor and manage their financial operations in one place.
+The **AI Business Operations System** is a real-world business dashboard designed for small businesses to manage financial operations and gain intelligent insights.
 
-This system allows users to:
+It combines **data tracking, analytics, and AI** into a single system to support better business decision-making.
 
-- record sales
-- track expenses
-- manage payroll
-- calculate profit and loss automatically
-- view financial trends through charts
-- receive smart business alerts
-- generate AI-powered business insights
-- interact with a GPT-style business chatbot
-
-The project combines business intelligence, automation, and AI support into one practical system.
+> ⚡ This project combines business analytics, automation, and AI to solve real-world small business problems.
 
 ---
 
 ## Key Features
 
-### Financial Tracking
-- Add and manage sales records
-- Add and manage expense records
-- Calculate total sales, total expenses, and profit/loss
+- Sales tracking and management  
+- Expense tracking and categorisation  
+- Payroll management and salary calculation  
+- Automatic profit and loss calculation  
+- Smart business alerts  
+- AI-generated business insights  
+- GPT-powered business chatbot  
+- Interactive dashboard with charts and filters  
+
+---
+
+## Screenshots
+
+### Dashboard Overview
+<p align="center">
+  <img src="images/dashboard.png" width="90%">
+</p>
+
+### AI Chat Assistant
+<p align="center">
+  <img src="images/chatbot.png" width="90%">
+</p>
 
 ### Payroll Management
-- Add employee payroll details
-- Calculate salary automatically
-- Track total payroll cost
+<p align="center">
+  <img src="images/payroll.png" width="90%">
+</p>
 
-### Smart Business Alerts
-- Detect negative profit
-- Detect high expenses compared to sales
-- Detect high payroll cost compared to sales
-- Highlight important business risks
+## Project Overview
 
-### AI Business Insights
-- Generate automated business performance insights
-- Explain financial issues in simple business language
+The **AI Business Operations System** is a real-world business dashboard designed for small businesses to manage financial operations and gain intelligent insights.
 
-### Business Chat Assistant
-- Ask questions about profit, sales, expenses, and payroll
-- Receive business advice through a chatbot interface
-- Supports GPT integration with fallback local logic
+It combines **data tracking, analytics, and AI** into a single system to support better business decision-making.
 
-### Interactive Dashboard
-- Monthly filtering
-- KPI summary cards
-- Sales and expense trend charts
-- Recent transaction tables
+> ⚡ This project combines business analytics, automation, and AI to solve real-world small business problems.
 
 ---
 
-## Tech Stack
+## Key Features
 
-- **Python**
-- **Streamlit**
-- **Pandas**
-- **Matplotlib**
-- **OpenAI API**
-- **CSV-based data storage**
+- Sales tracking and management  
+- Expense tracking and categorisation  
+- Payroll management and salary calculation  
+- Automatic profit and loss calculation  
+- Smart business alerts  
+- AI-generated business insights  
+- GPT-powered business chatbot  
+- Interactive dashboard with charts and filters  
 
 ---
 
-## Project Structure
+## Screenshots
 
-```bash
-ai-business-system/
-│
-├── app.py
-├── sales.csv
-├── expenses.csv
-├── payroll.csv
-├── README.md
-└── requirements.txt                                                                                                                                                      
+### Dashboard Overview
+<p align="center">
+  <img src="images/dashboard.png" width="90%">
+</p>
+
+### AI Chat Assistant
+<p align="center">
+  <img src="images/chatbot.png" width="90%">
+</p>
+
+### Payroll Management
+<p align="center">
+  <img src="images/payroll.png" width="90%">
+</p>
+
+---
+
 ## How to Run the Project
-1. Clone the repository
-git clone https://github.com/your-username/ai-business-system.git
-cd ai-business-system
-## 2. Create and activate virtual environment
-python -m venv venv
-On Windows
-venv\Scripts\activate
-## 3. Install dependencies
-pip install -r requirements.txt
-## 4. Run the application
-streamlit run app.py
-OpenAI API Setup
 
-If you want to use GPT-powered chatbot and AI insight features, set your OpenAI API key as an environment variable.
-
-On Windows PowerShell
-$env:OPENAI_API_KEY="your_api_key_here"
-
-Then run:
-
-streamlit run app.py
-
-If no API key is provided, the app still works with built-in fallback business logic.
-
-## Example Use Cases
-Small shop owners monitoring daily sales and expenses
-Small businesses tracking payroll and profit
-Business users who want simple AI-based financial guidance
-Portfolio demonstration of AI + analytics + dashboard development
-Future Improvements
-Database integration with SQLite or PostgreSQL
-Edit and delete transaction records
-Forecast future sales and expenses
-Inventory tracking
-Invoice generation
-User authentication
-Cloud deployment
-Real-time financial alerts
-More advanced GPT business assistant
-Why I Built This Project
-
-I built this project to combine business operations, analytics, and AI into one practical application that solves real small business problems.
-
-## This project demonstrates:
-
-business problem solving
-dashboard development
-financial analysis logic
-data handling with Python
-AI integration in a real-world system
-
-## Author
-
-## Noor Saba
-Aspiring Data Scientist | AI & Machine Learning | Python | SQL | Power BI
-
+### 1. Clone the repository
+```bash
+git clone https://github.com/noorsaba5/AI-Business-Operations-System.git
+cd AI-Business-Operations-System 
 
 ---
+
+## Project Details
+
+### Dashboard Highlights
+- KPI cards for total sales, expenses, payroll, and profit/loss  
+- Monthly reporting filter  
+- Sales and expense trend visualisation  
+- Smart business alerts for risk detection  
+- Clean and premium UI design  
+
+---
+
+### AI Capabilities
+- Detect financial risks automatically  
+- Explain business performance in simple terms  
+- Provide actionable recommendations  
+- Chat-based assistant for business queries  
+
+---
+
+### Tech Stack
+- Python  
+- Streamlit  
+- Pandas  
+- Matplotlib  
+- OpenAI API  
+
+---
+
+### Why This Project Stands Out
+- Real-world business application  
+- Combines analytics + AI + dashboard  
+- End-to-end system (data → insights → decisions)  
+- Designed for practical use, not just theory  
+
+---
+
+### Future Improvements
+- Database integration (SQLite / PostgreSQL)  
+- Sales forecasting using Machine Learning  
+- Expense prediction models  
+- Inventory management system  
+- User authentication  
+- Cloud deployment  
+- Mobile optimisation  
+
+---
+
+### Author
+**Noor Saba**  
+Aspiring Data Scientist | AI & Machine Learning | Python | SQL | Power BI  
