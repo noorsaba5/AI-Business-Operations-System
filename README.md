@@ -155,3 +155,7 @@ It combines **data tracking, analytics, and AI** into a single system to support
 ### Author
 **Noor Saba**  
 Aspiring Data Scientist | AI & Machine Learning | Python | SQL | Power BI  
+
+## Connect
+https://www.linkedin.com/in/noor-saba-044153283/
+https://github.com/noorsaba5
