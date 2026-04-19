@@ -46,71 +46,71 @@ It combines **data tracking, analytics, and AI** into a single system to support
 
 ---
 
-## 📸 Product Preview
+## Product Preview
 
 Explore how the AI Business Operations System helps manage and improve business performance.
 
 ---
 
-### 📊 Executive Dashboard
+### Executive Dashboard
 
 <p align="center">
   <img src="images/dashboard.png" width="90%">
 </p>
 
-💡 **What this shows:**
+**What this shows:**
 - Real-time overview of sales, expenses, payroll, and profit/loss  
 - Monthly filtering for financial analysis  
 - Clean KPI cards for quick decision-making  
 
 ---
 
-### 🤖 AI Business Chat Assistant
+### AI Business Chat Assistant
 
 <p align="center">
   <img src="images/chatbot.png" width="90%">
 </p>
 
-💡 **What this shows:**
+**What this shows:**
 - GPT-powered chatbot for business queries  
 - Explains profit issues and suggests improvements  
 - Helps users make data-driven decisions instantly  
 
 ---
 
-### 💼 Payroll Management System
+### Payroll Management System
 
 <p align="center">
   <img src="images/payroll.png" width="90%">
 </p>
 
-💡 **What this shows:**
+**What this shows:**
 - Employee payroll tracking  
 - Automatic salary calculation  
 - Total payroll cost monitoring  
 
 ---
 
-### 📈 Sales & Expense Analytics
+### Sales & Expense Analytics
 
 <p align="center">
   <img src="images/analytics-dashboard.png" width="90%">
 </p>
 
-💡 **What this shows:**
+**What this shows:**
 - Sales and expense trend visualisation  
 - Identifies business patterns over time  
 - Helps detect overspending and performance issues  
 
 ---
 
-### ⚠️ Smart Business Alerts
+### Smart Business Alerts
 
 <p align="center">
   <img src="images/alerts.png" width="90%">
 </p>
 
-💡 **What this shows:**
+ **What this shows:**
 - Automatic detection of financial risks  
 - Alerts when business is running at a loss  
 - Highlights high expenses or payroll issues  
